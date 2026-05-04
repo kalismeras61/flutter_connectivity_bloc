@@ -4,19 +4,19 @@ version: 0.0.3
 homepage: https://github.com/aliounekanoute/flutter_connectivity_bloc
 
 environment:
-  sdk: ">=2.16.2 <3.0.0"
-  flutter: ">=1.17.0"
+  sdk: ">=3.5.0 <4.0.0"
+  flutter: ">=3.4.0"
 
 dependencies:
-  connectivity_plus: ^6.0.3
+  connectivity_plus: ^7.1.1
   flutter:
     sdk: flutter
-  flutter_bloc: ^8.1.6
+  flutter_bloc: ^9.1.1
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^2.0.1
+  flutter_lints: ^6.0.0
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
